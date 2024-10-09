@@ -34,7 +34,7 @@
 
 3. Run the tool:
     ```bash
-    python3 main.py
+    python3 BruteShark.py
     ```
 
 ## Usage
@@ -43,7 +43,7 @@ Once the tool is installed, simply run the main script and use the available opt
 ### Example Usage:
 1. Start the tool:
     ```bash
-    python3 main.py
+    python3 BruteShark.py
     ```
 
 2. Choose an option from the displayed table, for example, **Subdomain Finder** by entering `9` at the prompt:
