@@ -3,7 +3,7 @@
 ## Overview
 **BruteShark Toolkit** is a powerful and versatile Python-based tool designed to perform various network brute-force attacks and information gathering tasks. With tools ranging from brute-forcing protocols like FTP, LDAP, SSH, and WiFi, to finding subdomains and admin panels, it is a useful addition to any ethical hacker or security researcher's toolkit.
 
-![image](https://github.com/MasterSayantan/BruteShark/blob/main/Screenshot%202024-10-17%20175956.png)
+![image](https://github.com/MasterSayantan/BruteShark/blob/main/example.png)
 
 ### Key Features:
 - **FTP, LDAP, SSH, Telnet, WiFi, and RDP Brute Force Attacks**: Perform brute-force attacks against multiple services to test their security.
